@@ -1,6 +1,9 @@
 # EDA-Capstone-project
+
 **My linkedIn:** https://www.linkedin.com/in/ankita-chouhan-a32553152/
+
 **Tableau Dashboard Link:** https://public.tableau.com/app/profile/ankita.chouhan/viz/EdStatsAnalysisbyAnkita/Dashboard1?publish=yes
+
 **World Bank Global Education Analysis**
 
 The World Bank EdStats (Education Statistics) portal is your comprehensive data and analysis source for key topics in education such as access, completion, learning, expenditures, policy, and equity. Data sources include administrative country data from UIS; international learning assessments (PISA, TIMSS, PIRLS, PIAAC, and EGRA) and three regional learning assessments (SACMEQ, PASEC, LLECE); World Bank databases, household surveys such as LSMS, DHS, MICS surveys. It includes World Bank Education Projects Database classified by activities, components, and sub-sectors of all World Bank Education Projects since 1998. It also includes detailed expenditure data extracted from World Bank public expenditure review documents.
